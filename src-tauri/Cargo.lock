@@ -659,7 +659,6 @@ version = "0.1.0"
 dependencies = [
  "core-graphics",
  "plist",
- "serde",
  "serde_json",
  "tauri",
  "tauri-build",

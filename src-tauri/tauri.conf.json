@@ -20,7 +20,8 @@
         "decorations": false,
         "resizable": false,
         "fullscreen": false,
-        "acceptFirstMouse": true
+        "acceptFirstMouse": true,
+        "visible": false
       }
     ],
     "security": {
